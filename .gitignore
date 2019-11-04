@@ -2,3 +2,8 @@
 *.tmp
 *.html
 img/
+*.css
+*.html
+/css
+/dis
+/mod
