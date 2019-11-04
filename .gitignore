@@ -1,8 +1,3 @@
 *.temp
 *.tmp
-*.html
-img/
-/node_modules
-Thumbs.db
-*.less
 *.txt
